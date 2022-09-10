@@ -3,3 +3,5 @@ Soy Javier Sevillano
 
 
 estoy aprendiendo
+
+git status
