@@ -5,3 +5,12 @@ Soy Javier Sevillano
 estoy aprendiendo
 
 git status
+
+git config --global alias.arbolito "log --all --graph --decorate --oneline"
+
+
+Master 1
+
+
+
+-----------
