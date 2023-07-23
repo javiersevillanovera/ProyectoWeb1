@@ -19,3 +19,5 @@ Experimento 2
 
 
 Prueba de stash
+
+version 6
